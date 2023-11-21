@@ -1,3 +1,4 @@
 class Flat < ApplicationRecord
-  p 'branch main'
+  p 'github demonstration'
+
 end
